@@ -41,7 +41,7 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 <br/><br/>
 
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/postree.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/ios-app.png" alt="pytorch" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/apple-icon.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/android.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/github.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/dock.png" alt="pytorch" height="42px"/>
