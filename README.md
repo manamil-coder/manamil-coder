@@ -57,11 +57,11 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 | ------- | --- | --- |
 | Seconds | 301 | 283 |
 
-<table width="100%">
+<table width=100%>
   <tr>
-     <td align="center"><a href="http://alyaqeen.org/" target="_blank">Alyaqeen</a></td>
-     <td align="center"><a href="http://knockknockhub.co.uk" target="_blank">KnockKnockhub.co.uk</a></td>
-     <td align="center"><a href="http://estate123.com/" target="_blank">Estate123</a></td>
+     <td><a href="http://alyaqeen.org/" target="_blank">Alyaqeen</a></td>
+     <td><a href="http://knockknockhub.co.uk" target="_blank">KnockKnockhub.co.uk</a></td>
+     <td><a href="http://estate123.com/" target="_blank">Estate123</a></td>
   </tr>
  
 </table>
