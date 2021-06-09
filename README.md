@@ -35,7 +35,7 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/php-icon.png" alt="Php" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/mysql.png" alt="Mysql" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/phython.png" alt="Phython" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/django-dark.png" alt="Django" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/dj.png" alt="Django" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/c++.svg" alt="C++" height="42px"/>
 
 <br/><br/>
