@@ -46,7 +46,7 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 ### 📊 Github Stats
 <a href='https://github-readme-stats.vercel.app/api?username=manamil-coder'>
   
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
+![Stats Overview]https://github-readme-stats.vercel.app/api?username=manamil-coder)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
 
 </a>
