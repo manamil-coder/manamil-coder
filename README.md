@@ -48,10 +48,8 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manamil-coder&layout=compact)
 
 </a>
-<br>
 
 ### 🛠️ My Projects
-
 
 <table width=100%>
   <tr>
