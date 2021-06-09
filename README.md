@@ -3,7 +3,7 @@
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-Welcome to my Github Profile. I am a full Stack Website Developer🌐 and Professional Graphic Designer🎨. I love exploring new tech stack computer and leveraging them to build cool stuff.
+Well come to my Github Profile. I am full Stack Website Developer🌐 and Professional Graphic Designer🎨. depending on what the project requires. I love exploring new tech stack computer and leveraging them to build cool stuffs
 
 <br/>
 <br/>
@@ -42,11 +42,9 @@ Welcome to my Github Profile. I am a full Stack Website Developer🌐 and Profes
 <br>
 
 
-[![CI](https://github.com/manamil-coder/manamil-coder/actions/workflows/main.yml/badge.svg)](https://github.com/manamil-coder/manamil-coder/actions/workflows/main.yml)
-
 
 ### 📊 Github Stats
-<a href='https://github.com/manamil-coder/MOST_USED_LANGUAGES'>
+<a href='https://github-readme-stats.vercel.app/api?username=manamil-coder'>
   
 ![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
