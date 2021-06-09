@@ -38,8 +38,9 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/phython.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/django-dark.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/c++.svg" alt="pytorch" height="42px"/>
-<br/>
-<br/>
+
+<br/><br/>
+
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/android.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/ios-app.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/android.png" alt="pytorch" height="42px"/>
@@ -50,8 +51,7 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/illustrator.png" alt="pytorch" height="42px"/>
 
 
-<br>
-<br>
+<br/><br/>
 
 ### 📊 Github Stats
 <a href='https://github.com/manamil-coder'>
