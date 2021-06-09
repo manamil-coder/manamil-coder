@@ -58,20 +58,13 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 | Seconds | 301 | 283 |
 
 <table width="100%">
-    <thead>
-        <tr>
-            <th align="left">Column1</th>
-            <th align="center">Column1</th>
-            <th align="right">Column1</th>
+    <thead width="100%">
+        <tr width="100%">
+            <th align="left" width="100%">Column1</th>
+            <th align="center" width="100%">Column1</th>
+            <th align="right" width="100%">Column1</th>
         </tr>
     </thead>
-    <tbody>
-        <tr>
-            <td align="left">Column1</td>
-            <td align="center">Column1</td>
-            <td align="right">Column1</td>
-        </tr>
-    </tbody>
 </table>
 
 <a href="http://alyaqeen.org/" target="_blank">Alyaqeen</a>, 
