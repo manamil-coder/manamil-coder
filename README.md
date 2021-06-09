@@ -53,10 +53,10 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 ### 🛠️ My Projects
 
 
-First Header  | Second Header  Second Header 
-------------- | ------------- | -------------
-Content Cell  | Content Cell  | Content Cell
-Content Cell  | Content Cell | Content Cell
+| Attempt | #1  | #2  |
+| ------- | --- | --- |
+| Seconds | 301 | 283 |
+
 
 <a href="http://alyaqeen.org/" target="_blank">Alyaqeen</a>, 
 <a href="http://knockknockhub.co.uk" target="_blank">KnockKnockhub.co.uk</a>,
