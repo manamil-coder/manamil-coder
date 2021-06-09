@@ -60,9 +60,9 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 <table width="100%">
     <thead width="100%">
         <tr width="100%">
-            <th align="left" width="100%">Column1</th>
-            <th align="center" width="100%">Column1</th>
-            <th align="right" width="100%">Column1</th>
+            <th align="left">Column1</th>
+            <th align="center">Column1</th>
+            <th align="right">Column1</th>
         </tr>
     </thead>
 </table>
