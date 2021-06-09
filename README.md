@@ -25,7 +25,8 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
-<br>
+<br/>
+
 
 ### 🔨 Languages and Tools:
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/html.png" alt="pytorch" height="42px"/>
@@ -37,6 +38,8 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/phython.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/django-dark.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/c++.svg" alt="pytorch" height="42px"/>
+<br/>
+<br/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/android.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/ios-app.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/android.png" alt="pytorch" height="42px"/>
