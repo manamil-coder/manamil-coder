@@ -90,17 +90,17 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
      <td width="300"><a href="http://207.180.236.232/~shakir/bestwebscript/" target="_blank">Best Web Script</a></td>
   </tr>
    <tr>
-     <td width="300"><a href="http://207.180.236.232/~shakir/bestwebscript/" target="_blank">Best Web Script/</a></td>
+     <td width="300"><a href="http://207.180.236.232/~shakir/bestwebscript/" target="_blank">Best Web Script</a></td>
      <td width="300"><a href="http://207.180.236.232/~shakir/cms-landing-page/" target="_blank">CMS Landing Page</a></td>
      <td width="300"><a href="http://207.180.236.232/~shakir/cycle-rider/" target="_blank">Cycle Rider</a></td>
   </tr>
    <tr>
-     <td width="300"><a href="http://207.180.236.232/~shakir/home-anish/" target="_blank">Home Anish/</a></td>
+     <td width="300"><a href="http://207.180.236.232/~shakir/home-anish/" target="_blank">Home Anish</a></td>
      <td width="300"><a href="http://207.180.236.232/~shakir/island-diaz/" target="_blank">Island Diaz</a></td>
-     <td width="300"><a href="http://207.180.236.232/~shakir/market-access-pro/" target="_blank">Market Access Pro/</a></td>
+     <td width="300"><a href="http://207.180.236.232/~shakir/market-access-pro/" target="_blank">Market Access Pro</a></td>
   </tr>
    <tr>
-     <td width="300"><a href="http://207.180.236.232/~shakir/menu-webapp/" target="_blank">Menu Web App/</a></td>
+     <td width="300"><a href="http://207.180.236.232/~shakir/menu-webapp/" target="_blank">Menu Web App</a></td>
      <td width="300"><a href="http://207.180.236.232/~shakir/mssons/" target="_blank">MS Sons</a></td>
      <td width="300"><a href="http://207.180.236.232/~shakir/plant-website" target="_blank">Plant Website</a></td>
   </tr>
