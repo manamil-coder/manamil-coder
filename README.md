@@ -34,8 +34,9 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/download.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/php.png" alt="pytorch" height="42px"/>
 <img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/mysql.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/postgress.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/python.png" alt="pytorch" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/phython.png" alt="pytorch" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/django-dark.png" alt="pytorch" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/django-dark.png" alt="pytorch" height="42px"/>
 
 
 <br>
