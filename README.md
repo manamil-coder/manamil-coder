@@ -3,7 +3,7 @@
 <a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
 
-Well come to my Github Profile. I am full Stack Website Developer🌐 and Professional Graphic Designer🎨. depending on what the project requires. I love exploring new tech stack computer and leveraging them to build cool stuffs
+Welcome to my Github Profile. I am a full Stack Website Developer🌐 and Professional Graphic Designer🎨. I love exploring new tech stack computer and leveraging them to build cool stuff.
 
 <br/>
 <br/>
