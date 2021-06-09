@@ -53,10 +53,10 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 </a>
 
 <br>
-### 📊 Github Stats
+📊 Github Stats
 <a href='https://github.com/manamil-coder/github-stats-transparent'>
   
-![Stats Overview](https://raw.githubusercontent.com/manamil-coder)
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=manamil-coder)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manamil-coder&layout=compact)](https://github.com/manamil-coder/github-readme-stats)
 
 </a>
