@@ -42,6 +42,9 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 <br>
 
 
+[![CI](https://github.com/manamil-coder/manamil-coder/actions/workflows/main.yml/badge.svg)](https://github.com/manamil-coder/manamil-coder/actions/workflows/main.yml)
+
+
 ### 📊 Github Stats
 <a href='https://github.com/manamil-coder/MOST_USED_LANGUAGES'>
   
