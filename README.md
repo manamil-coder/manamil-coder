@@ -28,26 +28,26 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 
 
 ### 🔨 Languages and Tools:
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/html.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/css.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/js.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/download.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/php.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/mysql.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/phython.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/django-dark.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/c++.svg" alt="pytorch" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/html.png" alt="html" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/css.png" alt="css" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/js.png" alt="javascript" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/download.png" alt="bootstrap" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/php-icon.png" alt="Php" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/mysql.png" alt="Mysql" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/phython.png" alt="Phython" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/django-dark.png" alt="Django" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/c++.svg" alt="C++" height="42px"/>
 
 <br/><br/>
 
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/postree.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/apple-icon.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/android.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/github.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/dock.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/vscode.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/photoshop.png" alt="pytorch" height="42px"/>
-<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/illustrator.png" alt="pytorch" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/postree.png" alt="Postree" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/apple-icon.png" alt="IOS APP" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/android.png" alt="Android" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/github.png" alt="Github" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/dock.png" alt="Dock" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/vscode.png" alt="Vscode" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/photoshop.png" alt="Adobe Photoshop" height="42px"/>
+<img align="left" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/languages-icons/illustrator.png" alt="Adobe Illustrator" height="42px"/>
 
 
 <br/><br/>
