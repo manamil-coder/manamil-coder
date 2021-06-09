@@ -58,17 +58,17 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 | Seconds | 301 | 283 |
 
 <table width="100%">
-  <tr width="100%">
-     <th align="center" width="40%">Column1</th>
-     <th align="center" width="40%">Column1</th>
-     <th align="center" width="40%">Column1</th>
+  <tr>
+     <td align="center"><a href="http://alyaqeen.org/" target="_blank">Alyaqeen</a></td>
+     <td align="center"><a href="http://knockknockhub.co.uk" target="_blank">KnockKnockhub.co.uk</a></td>
+     <td align="center"><a href="http://estate123.com/" target="_blank">Estate123</a></td>
   </tr>
  
 </table>
 
-<a href="http://alyaqeen.org/" target="_blank">Alyaqeen</a>, 
-<a href="http://knockknockhub.co.uk" target="_blank">KnockKnockhub.co.uk</a>,
-<a href="http://estate123.com/" target="_blank">Estate123</a>,
+
+
+
 <a href="http://pizzalife-drabenderhoehe.de/" target="_blank">Pizzalife Drabenderhoehe</a>,
 <a href="https://planetants-supporter.com/" target="_blank">Planet Ants Supporter</a>,
 <a href="https://rolloffer.com/" target="_blank">Rolloffer</a>,
