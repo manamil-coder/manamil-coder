@@ -57,12 +57,12 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 | ------- | --- | --- |
 | Seconds | 301 | 283 |
 
-<table width="100%">
-    <thead width="100%">
-        <tr width="100%">
-            <th align="left">Column1</th>
-            <th align="center">Column1</th>
-            <th align="right">Column1</th>
+<table>
+    <thead>
+        <tr>
+            <th align="center" width="33%">Column1</th>
+            <th align="center" width="33%">Column1</th>
+            <th align="center" width="33%">Column1</th>
         </tr>
     </thead>
 </table>
