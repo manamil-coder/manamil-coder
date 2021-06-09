@@ -16,7 +16,6 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 ### <img alt="GIF" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/Developer.gif" width="30px"/> More About Me:
 
 - 🔭 &nbsp; I’m currently working on **TechWare House**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
 - 🌱 &nbsp; I’m currently learning Typescript; 
 - 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
