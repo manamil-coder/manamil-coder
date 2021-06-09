@@ -8,7 +8,7 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
