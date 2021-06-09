@@ -9,8 +9,7 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 <br/>
 
 
-  
-  <img alt="GIF" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/Developer.gif" width="30px"/> ### More About Me:
+### <img alt="GIF" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/Developer.gif" width="30px"/> More About Me:
 
 - 🔭 &nbsp; I’m currently working on **TechWare House**
 - 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
