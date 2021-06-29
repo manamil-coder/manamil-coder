@@ -17,7 +17,6 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [Facebook](https://www.facebook.com/muahammadmanamil/)
 - 📝 &nbsp; Checkout my [Graphic Work](https://www.facebook.com/graphicdesigningpk)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/user/show/136215966-muhammad-manamil) to see the book I have read
 
 <br/>
 
