@@ -1,10 +1,6 @@
 ## Hey 👋, I'm Muhammad Manamil!
-<a href='https://www.facebook.com/muahammadmanamil/'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/linkedin.png" height='18px'/></a>
-<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/facebook.png" height='18px'/></a>
-<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/skype.png" height='18px'/></a>
-<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/twitter.png" height='18px'/></a>
-<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/whatsapp.png" height='18px'/></a>
-<a href='#0'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/website.png" height='18px'/></a>
+<a href='https://www.facebook.com/muahammadmanamil/'><img align='left' src="https://github.com/manamil-coder/manamil-coder/blob/main/images/facebook.png" height='18px'/></a>
+
 <br>
 Well come to my Github Profile. I am full Stack Website Developer🌐 and Professional Graphic Designer🎨. depending on what the project requires. I love exploring new tech stack computer and leveraging them to build cool stuffs
 
@@ -15,9 +11,9 @@ Well come to my Github Profile. I am full Stack Website Developer🌐 and Profes
 
 ### <img alt="GIF" src="https://github.com/manamil-coder/manamil-coder/blob/main/images/Developer.gif" width="30px"/> More About Me:
 
-- 🔭 &nbsp; I’m currently working on **TechWare House**
+- 🔭 &nbsp; I’m currently working **TechWare House**
 - 🌱 &nbsp; I’m currently learning Typescript; 
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
+- 🎨 &nbsp; It's my youtube channel (https://www.youtube.com/channel/UCJ4s7v-DB4e4RldlLDLAfMQ) 👉
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [Facebook](https://www.facebook.com/muahammadmanamil/)
 - 📝 &nbsp; Checkout my [Graphic Work](https://www.facebook.com/graphicdesigningpk)
